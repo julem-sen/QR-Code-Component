@@ -35,13 +35,13 @@ img {
 
 .card-body h2 {
   margin: 0px 32px;
-  font-size: 1.3em;
+  font-size: 1.5em;
   color: var(--dark-blue);
 }
 .card-body p {
   margin: 15px 32px;
   margin-bottom: 30px;
-  font-size: 0.9em;
+  font-size: 1.1em;
   color: var(--grayish-blue);
 }
 
@@ -52,12 +52,12 @@ img {
 @media only screen and (min-width: 375px) {
   .card {
     width: 350px;
-    height: 65vh;
+    height: 70vh;
   }
 }
 @media only screen and (min-width: 1440px) {
   .card {
     width: 350px;
-    height: 65vh;
+    height: 70vh;
   }
 }/*# sourceMappingURL=style.css.map */
