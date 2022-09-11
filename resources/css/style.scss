@@ -24,7 +24,7 @@ body {
 
 
 .card {
-    width:300px;
+    width:var(--mobile-width);
     background-color: var(--white);
     border-radius: 15px;
 }
